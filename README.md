@@ -1,1 +1,1 @@
-# diseney-clone-by-react-vite
+# disney-clone-by-react-vite
