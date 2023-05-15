@@ -6,6 +6,7 @@ const Nav = styled.div`
   align-items: center;
   padding: 0 36px;
   overflow-x: hidden;
+  position: relative;
 `;
 
 export default Nav;

@@ -2,6 +2,7 @@ import React from "react";
 import { styled } from "styled-components";
 import ImageCarousel from "./ImageCarousel";
 import Viewers from "./Viewers";
+import Movies from "./Movies";
 // import Container from "./Home.style";
 
 function Home() {
@@ -9,6 +10,7 @@ function Home() {
     <Container>
       <ImageCarousel />
       <Viewers />
+      <Movies />
     </Container>
   );
 }
