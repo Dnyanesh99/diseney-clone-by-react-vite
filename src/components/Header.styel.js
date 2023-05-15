@@ -5,6 +5,7 @@ const Nav = styled.div`
   display: flex;
   align-items: center;
   padding: 0 36px;
+  overflow-x: hidden;
 `;
 
 export default Nav;
